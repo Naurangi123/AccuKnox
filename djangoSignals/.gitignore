@@ -1,0 +1,24 @@
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+
+*.py[cod] 
+*$py.class 
+
+# pyenv 
+.python-version
+
+naccuknox/
+
+.env 
+.venv 
+env/ 
+venv/ 
+ENV/ 
+env.bak/ 
+venv.bak/ 
+
+naccuknox/
